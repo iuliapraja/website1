@@ -6,6 +6,8 @@
     color : white;
     font-size: 20px;
     height : 1cm;
+    text-align: center;
+    border: 3px solid green;
   }
 .stil-linkuri {
     text-decoration: underline;
