@@ -7,7 +7,8 @@
     font-size: 20px;
     height : 1cm;
     text-align: center;
-    border: 3px solid green;
+    border: 1px solid aquamarine;
+    border-radius: 5px;
   }
 .stil-linkuri {
     text-decoration: underline;
